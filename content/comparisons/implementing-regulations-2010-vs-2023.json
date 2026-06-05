@@ -1,0 +1,130 @@
+{
+  "id": "implementing-regulations-2010-vs-2023",
+  "docType": "regulations",
+  "oldVersion": "2010年修订",
+  "newVersion": "2023年修订",
+  "oldEffectiveDate": "2010-02-01",
+  "newEffectiveDate": "2024-01-20",
+  "articles": [
+    {
+      "articleNumber": 11,
+      "chapterTitle": "总则",
+      "changeType": "modified",
+      "oldContent": "除专利法第二十八条和第四十二条规定的情形外，专利法所称申请日，有优先权的，指优先权日。本细则所称申请日，除另有规定的外，是指专利法第二十八条规定的申请日。",
+      "newContent": "除专利法第二十八条和第四十二条规定的情形外，专利法所称申请日，有优先权的，指优先权日。本细则所称申请日，除另有规定的外，是指专利法第二十八条规定的申请日。增加了对专利法新增药品专利期限补偿和PTA相关条款的引用。",
+      "summary": "申请日定义中增加了对新专利法条款的引用（药品专利期限补偿、PTA等）",
+      "rationale": "配合专利法2020年修正新增的期限补偿制度",
+      "examSignificance": "medium"
+    },
+    {
+      "articleNumber": 14,
+      "chapterTitle": "总则",
+      "changeType": "added",
+      "oldContent": "",
+      "newContent": "新增专利权质押登记的具体规定：以专利权出质的，由出质人和质权人共同向国务院专利行政部门办理出质登记。专利权质押期间，出质人未经质权人同意，不得转让或者许可他人实施该专利权。",
+      "summary": "新增专利权质押登记制度和质押期间处分限制",
+      "rationale": "适应专利权作为融资工具的需求，完善质押登记程序",
+      "examSignificance": "high"
+    },
+    {
+      "articleNumber": 30,
+      "chapterTitle": "专利的申请",
+      "changeType": "modified",
+      "oldContent": "申请专利的发明创造有专利法第二十四条第（一）项或者第（二）项所列情形的...",
+      "newContent": "申请专利的发明创造有专利法第二十四条第（一）项或者第（四）项所列情形的，申请人应当在提出专利申请时声明...（因新增紧急状态下为公共利益公开的类型）",
+      "summary": "举证文件要求配合专利法新增的第24条第（一）项宽限期情形进行调整",
+      "rationale": "配合专利法2020年修正新增紧急状态下的宽限期类型",
+      "examSignificance": "medium"
+    },
+    {
+      "articleNumber": 32,
+      "chapterTitle": "专利的申请",
+      "changeType": "modified",
+      "oldContent": "要求本国优先权的，其在先申请自在后申请提出之日起即视为撤回。",
+      "newContent": "要求本国优先权的，其在先申请自在后申请提出之日起即视为撤回，但属于外观设计专利申请的除外。",
+      "summary": "外观设计本国优先权：在先申请不视为撤回",
+      "rationale": "配合专利法2020年修正新增的外观设计本国优先权制度",
+      "examSignificance": "high"
+    },
+    {
+      "articleNumber": 45,
+      "chapterTitle": "初步审查",
+      "changeType": "added",
+      "oldContent": "",
+      "newContent": "新增第45条：援引在先申请文件补交申请文件制度（援引加入）。申请人可在首次递交日起两个月内提交确认援引加入声明补交遗漏或错误的权利要求书/说明书。",
+      "summary": "新增援引加入制度——允许补交遗漏或错误提交的申请文件",
+      "rationale": "便利申请人，减少因形式缺陷导致的重新申请",
+      "examSignificance": "high"
+    },
+    {
+      "articleNumber": 79,
+      "chapterTitle": "对职务发明创造的发明人或者设计人的奖励和报酬",
+      "changeType": "modified",
+      "oldContent": "一项发明专利的奖金最低不少于三千元；一项实用新型专利或者外观设计专利的奖金最低不少于一千元。",
+      "newContent": "一项发明专利的奖金最低不少于四千元；一项实用新型专利或者外观设计专利的奖金最低不少于一千五百元。",
+      "summary": "职务发明最低奖金标准提高——发明4000元（原3000）、新型/外观1500元（原1000）",
+      "rationale": "加大职务发明人激励，促进科技成果转化",
+      "examSignificance": "high"
+    },
+    {
+      "articleNumber": 94,
+      "chapterTitle": "专利权的保护",
+      "changeType": "modified",
+      "oldContent": "管理专利工作的部门在查处假冒专利行为过程中...可以并处违法所得三倍以下的罚款；没有违法所得的，可以处五万元以下的罚款。",
+      "newContent": "管理专利工作的部门在查处假冒专利行为过程中...可以并处违法所得四倍以下的罚款；没有违法所得的，可以处二十万元以下的罚款。",
+      "summary": "假冒专利罚款标准大幅提高——从3倍提升至4倍违法所得、无违法所得从5万提升至20万",
+      "rationale": "提高违法成本，加强专利保护力度",
+      "examSignificance": "high"
+    },
+    {
+      "articleNumber": 136,
+      "chapterTitle": "附则",
+      "changeType": "added",
+      "oldContent": "",
+      "newContent": "新增专利权期限补偿（PTA）的申请程序：因专利局审查延迟可请求期限补偿，须在授权公告日起3个月内提出。",
+      "summary": "新增专利权期限补偿（PTA）实施细则",
+      "rationale": "落实专利法2020年修正新增的PTA制度，明确操作规范",
+      "examSignificance": "high"
+    },
+    {
+      "articleNumber": 137,
+      "chapterTitle": "附则",
+      "changeType": "added",
+      "oldContent": "",
+      "newContent": "新增药品专利权期限补偿（PTE）的实施细则：专利权人应在药品上市许可之日起3个月内提出请求，补偿期限最多5年，总有效期不超过14年。",
+      "summary": "新增药品专利期限补偿（PTE）实施细则",
+      "rationale": "落实专利法2020年修正新增的PTE制度",
+      "examSignificance": "high"
+    },
+    {
+      "articleNumber": 138,
+      "chapterTitle": "附则",
+      "changeType": "modified",
+      "oldContent": "仅规定专利权评价报告可对实用新型作出。",
+      "newContent": "明确实用新型或外观设计专利权人或利害关系人均可请求作出专利权评价报告。收到请求后2个月内作出。",
+      "summary": "外观设计也可请求专利权评价报告，明确2个月期限",
+      "rationale": "配合外观设计保护期延长和加强外观设计保护的需要",
+      "examSignificance": "medium"
+    },
+    {
+      "articleNumber": 162,
+      "chapterTitle": "附则",
+      "changeType": "added",
+      "oldContent": "",
+      "newContent": "新增专利导航产业发展的工作机制——推动专利分析与产业决策深度融合，围绕战略新兴产业和重点产业开展专利导航分析。",
+      "summary": "新增专利导航制度",
+      "rationale": "将实践中的专利导航做法上升到行政法规层面",
+      "examSignificance": "low"
+    },
+    {
+      "articleNumber": 164,
+      "chapterTitle": "附则",
+      "changeType": "added",
+      "oldContent": "",
+      "newContent": "单位对职务发明的奖励报酬办法须报国务院专利行政部门备案。",
+      "summary": "新增职务发明奖励报酬办法备案制度",
+      "rationale": "强化对职务发明奖励报酬制度的监督落实",
+      "examSignificance": "medium"
+    }
+  ]
+}

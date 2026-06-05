@@ -1,0 +1,134 @@
+[
+  {
+    "id": "e-01",
+    "phase": "application",
+    "eventName": "优先权主张",
+    "deadline": "自首次申请日起12个月（发明/实用新型）或6个月（外观设计）",
+    "calculatedFrom": "首次申请日",
+    "duration": { "value": 12, "unit": "month", "inclusiveOfStart": false },
+    "legalBasis": "专利法第29条",
+    "notes": "要求优先权需在申请时提出书面声明，并在16个月内提交在先申请文件副本",
+    "order": 1
+  },
+  {
+    "id": "e-02",
+    "phase": "application",
+    "eventName": "PCT进入国家阶段",
+    "deadline": "自优先权日起30个月（或国际申请日起20个月）",
+    "calculatedFrom": "优先权日/国际申请日",
+    "duration": { "value": 30, "unit": "month", "inclusiveOfStart": false },
+    "legalBasis": "PCT条约第22条",
+    "notes": "可缴纳宽限费延长至32个月",
+    "order": 2
+  },
+  {
+    "id": "e-03",
+    "phase": "examination",
+    "eventName": "发明专利申请公布",
+    "deadline": "自申请日起满18个月",
+    "calculatedFrom": "申请日（优先权日）",
+    "duration": { "value": 18, "unit": "month", "inclusiveOfStart": false },
+    "legalBasis": "专利法第34条",
+    "notes": "申请人可请求提前公布，以加快审查进程",
+    "order": 3
+  },
+  {
+    "id": "e-04",
+    "phase": "examination",
+    "eventName": "请求实质审查",
+    "deadline": "自申请日起3年内",
+    "calculatedFrom": "申请日（优先权日）",
+    "duration": { "value": 3, "unit": "year", "inclusiveOfStart": false },
+    "legalBasis": "专利法第35条",
+    "notes": "逾期不请求的，该申请即被视为撤回",
+    "order": 4
+  },
+  {
+    "id": "e-05",
+    "phase": "examination",
+    "eventName": "答复审查意见通知书",
+    "deadline": "指定期限内（通常4个月，后续2个月）",
+    "calculatedFrom": "审查意见通知书发文日+15日（推定收到日）",
+    "duration": { "value": 4, "unit": "month", "inclusiveOfStart": false },
+    "legalBasis": "专利法第37条",
+    "notes": "可请求延长答复期限",
+    "order": 5
+  },
+  {
+    "id": "e-06",
+    "phase": "examination",
+    "eventName": "请求复审",
+    "deadline": "自收到驳回决定通知之日起3个月内",
+    "calculatedFrom": "驳回决定发文日+15日",
+    "duration": { "value": 3, "unit": "month", "inclusiveOfStart": false },
+    "legalBasis": "专利法第41条",
+    "notes": "需提交复审请求书并缴纳复审费",
+    "order": 6
+  },
+  {
+    "id": "e-07",
+    "phase": "registration",
+    "eventName": "办理登记手续",
+    "deadline": "自收到授权通知之日起2个月内",
+    "calculatedFrom": "授权通知发文日+15日",
+    "duration": { "value": 2, "unit": "month", "inclusiveOfStart": false },
+    "legalBasis": "实施细则第54条",
+    "notes": "缴纳年费、专利登记费、印花税等",
+    "order": 7
+  },
+  {
+    "id": "e-08",
+    "phase": "post-registration",
+    "eventName": "年费缴纳",
+    "deadline": "每年在申请日前预缴下一年度年费",
+    "calculatedFrom": "申请日",
+    "duration": { "value": 1, "unit": "year", "inclusiveOfStart": false },
+    "legalBasis": "专利法第43条",
+    "notes": "超过期限有6个月补缴期（需缴滞纳金），逾期专利权终止",
+    "order": 8
+  },
+  {
+    "id": "e-09",
+    "phase": "post-registration",
+    "eventName": "年费补缴期",
+    "deadline": "年费缴纳期限届满后6个月内",
+    "calculatedFrom": "年费缴纳期限届满日",
+    "duration": { "value": 6, "unit": "month", "inclusiveOfStart": false },
+    "legalBasis": "实施细则第98条",
+    "notes": "需缴纳年费和滞纳金，滞纳金逐月递增",
+    "order": 9
+  },
+  {
+    "id": "e-10",
+    "phase": "post-registration",
+    "eventName": "专利权恢复",
+    "deadline": "收到专利权终止通知之日起2个半月内",
+    "calculatedFrom": "终止通知发文日",
+    "duration": { "value": 2.5, "unit": "month", "inclusiveOfStart": false },
+    "legalBasis": "实施细则第6条",
+    "notes": "需提交恢复权利请求书，说明正当理由并缴纳恢复费",
+    "order": 10
+  },
+  {
+    "id": "e-11",
+    "phase": "post-registration",
+    "eventName": "无效宣告",
+    "deadline": "自授权公告日起任何时间可提出",
+    "calculatedFrom": "授权公告日",
+    "duration": null,
+    "legalBasis": "专利法第45条",
+    "notes": "部分无效理由只能在授权后特定期限内提出",
+    "order": 11
+  },
+  {
+    "id": "e-12",
+    "phase": "post-registration",
+    "eventName": "专利权期限届满",
+    "deadline": "发明20年/实用新型10年/外观设计15年（自申请日起算）",
+    "calculatedFrom": "申请日",
+    "duration": { "value": 20, "unit": "year", "inclusiveOfStart": false },
+    "legalBasis": "专利法第42条",
+    "notes": "药品专利可请求期限补偿（新增制度）",
+    "order": 12
+  }
+]

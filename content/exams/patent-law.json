@@ -1,0 +1,317 @@
+[
+  {
+    "id": "pl-c01-q001",
+    "subject": "patent-law",
+    "chapterId": "ch-01",
+    "chapterTitle": "总则",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 2,
+    "content": "根据专利法规定，以下哪种发明创造不授予专利权？",
+    "options": [
+      { "key": "A", "content": "新的药物化合物" },
+      { "key": "B", "content": "疾病的诊断和治疗方法" },
+      { "key": "C", "content": "新型机器设备" },
+      { "key": "D", "content": "改良的生产工艺" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "根据《专利法》第25条第（三）项，疾病的诊断和治疗方法不授予专利权。但用于疾病诊断和治疗的仪器、设备可以授予专利权。",
+    "relatedArticles": ["patent-law/article-25"],
+    "tags": ["不授予专利权", "疾病诊断", "治疗方法"]
+  },
+  {
+    "id": "pl-c01-q002",
+    "subject": "patent-law",
+    "chapterId": "ch-01",
+    "chapterTitle": "总则",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 2,
+    "content": "外观设计专利权的期限是多少年？",
+    "options": [
+      { "key": "A", "content": "10年" },
+      { "key": "B", "content": "15年" },
+      { "key": "C", "content": "20年" },
+      { "key": "D", "content": "25年" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "2020年修正的《专利法》第42条将外观设计专利权的期限从10年延长至15年（自申请日起算），以满足《工业品外观设计国际注册海牙协定》的最低要求。这是2020年修正的重要变化。",
+    "relatedArticles": ["patent-law/article-42"],
+    "tags": ["外观设计", "专利权期限", "2020年修正"]
+  },
+  {
+    "id": "pl-c01-q003",
+    "subject": "patent-law",
+    "chapterId": "ch-01",
+    "chapterTitle": "总则",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 3,
+    "content": "执行本单位的任务或者主要是利用本单位的物质技术条件所完成的发明创造，其专利申请权和专利权归属于谁？",
+    "options": [
+      { "key": "A", "content": "发明人或者设计人" },
+      { "key": "B", "content": "该单位" },
+      { "key": "C", "content": "单位和发明人共有" },
+      { "key": "D", "content": "国家知识产权局" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "根据《专利法》第6条，职务发明创造申请专利的权利属于该单位，申请被批准后，该单位为专利权人。但单位与发明人或设计人订有合同对权属作出约定的，从其约定。",
+    "relatedArticles": ["patent-law/article-06"],
+    "tags": ["职务发明", "专利权归属", "专利法第6条"]
+  },
+  {
+    "id": "pl-c01-q004",
+    "subject": "patent-law",
+    "chapterId": "ch-02",
+    "chapterTitle": "授予专利权的条件",
+    "type": "multiple-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 3,
+    "content": "授予专利权的发明和实用新型应当具备哪些条件？",
+    "options": [
+      { "key": "A", "content": "新颖性" },
+      { "key": "B", "content": "创造性" },
+      { "key": "C", "content": "实用性" },
+      { "key": "D", "content": "美感" }
+    ],
+    "correctAnswer": ["A", "B", "C"],
+    "explanation": "根据《专利法》第22条，授予专利权的发明和实用新型应当具备新颖性、创造性和实用性（即'三性'）。'美感'是外观设计的考量因素之一，而非发明和实用新型的授权条件。",
+    "relatedArticles": ["patent-law/article-22"],
+    "tags": ["三性", "新颖性", "创造性", "实用性", "授权条件"]
+  },
+  {
+    "id": "pl-c01-q005",
+    "subject": "patent-law",
+    "chapterId": "ch-02",
+    "chapterTitle": "授予专利权的条件",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 4,
+    "content": "根据专利法，现有技术是指？",
+    "options": [
+      { "key": "A", "content": "申请日以前在国内为公众所知的技术" },
+      { "key": "B", "content": "申请日以前在国内外为公众所知的技术" },
+      { "key": "C", "content": "申请日以前在国内公开使用的技术" },
+      { "key": "D", "content": "申请日以前在国内外公开出版物上发表的论文" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "根据《专利法》第22条第5款，现有技术是指申请日以前在国内外为公众所知的技术。中国自2008年修正后采用'绝对新颖性'标准，即全球范围内的任何公开均构成现有技术。",
+    "relatedArticles": ["patent-law/article-22"],
+    "tags": ["现有技术", "绝对新颖性", "申请日"]
+  },
+  {
+    "id": "pl-c01-q006",
+    "subject": "patent-law",
+    "chapterId": "ch-02",
+    "chapterTitle": "授予专利权的条件",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 3,
+    "content": "申请专利的发明创造在申请日以前六个月内，有下列哪种情形的，不丧失新颖性？",
+    "options": [
+      { "key": "A", "content": "申请人在博客上公开发表" },
+      { "key": "B", "content": "他人未经申请人同意而泄露其内容" },
+      { "key": "C", "content": "在淘宝上公开销售" },
+      { "key": "D", "content": "在公司内部年会上向全体员工展示" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "根据《专利法》第24条，在申请日以前6个月内，以下情形不丧失新颖性：(1)国家紧急状态时为公共利益目的首次公开；(2)在国际展览会上首次展出；(3)在学术/技术会议上首次发表；(4)他人未经申请人同意而泄露。博客发表、电商销售和内部展示不在宽限范围内。",
+    "relatedArticles": ["patent-law/article-24"],
+    "tags": ["不丧失新颖性", "宽限期", "6个月"]
+  },
+  {
+    "id": "pl-c01-q007",
+    "subject": "patent-law",
+    "chapterId": "ch-01",
+    "chapterTitle": "总则",
+    "type": "multiple-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 3,
+    "content": "根据2020年修正的《专利法》，以下哪些属于新增或修改的内容？（多选）",
+    "options": [
+      { "key": "A", "content": "局部外观设计保护" },
+      { "key": "B", "content": "外观设计本国优先权（6个月）" },
+      { "key": "C", "content": "惩罚性赔偿制度（1-5倍）和开放许可制度" },
+      { "key": "D", "content": "专利权期限补偿制度（PTA/PTE）" }
+    ],
+    "correctAnswer": ["A", "B", "C", "D"],
+    "explanation": "2020年修正的专利法新增或修改了：（A）外观设计定义中明确保护'整体或者局部'；（B）外观设计可以享有本国优先权（6个月）；（C）新增惩罚性赔偿制度（1-5倍）、开放许可制度和法定赔偿额（3万-500万）；（D）新增专利权期限补偿制度——因专利局审查延迟的PTA和药品专利期限补偿PTE（第42条）。本题四个选项全部为2020年修正新增或修改的内容。",
+    "relatedArticles": ["patent-law/article-02", "patent-law/article-29", "patent-law/article-71"],
+    "tags": ["2020年修正", "局部外观设计", "本国优先权", "惩罚性赔偿"]
+  },
+  {
+    "id": "pl-c01-q008",
+    "subject": "patent-law",
+    "chapterId": "ch-01",
+    "chapterTitle": "总则",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 2,
+    "content": "两个以上的申请人分别就同样的发明创造申请专利的，专利权授予？",
+    "options": [
+      { "key": "A", "content": "最先发明的人" },
+      { "key": "B", "content": "最先申请的人" },
+      { "key": "C", "content": "所有申请人共有" },
+      { "key": "D", "content": "通过抽签确定" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "根据《专利法》第9条第2款，中国采用先申请原则（而非先发明原则），同样的发明创造，专利权授予最先申请的人。",
+    "relatedArticles": ["patent-law/article-09"],
+    "tags": ["先申请原则", "先发明原则", "禁止重复授权"]
+  },
+  {
+    "id": "pl-c01-q009",
+    "subject": "patent-law",
+    "chapterId": "ch-03",
+    "chapterTitle": "专利的申请",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 3,
+    "content": "发明专利申请人对专利申请文件进行修改时，修改不得超出什么范围？",
+    "options": [
+      { "key": "A", "content": "原请求书记载的范围" },
+      { "key": "B", "content": "原说明书和权利要求书记载的范围" },
+      { "key": "C", "content": "申请人声明的保护范围" },
+      { "key": "D", "content": "审查员指定的范围" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "根据《专利法》第33条，对发明和实用新型专利申请文件的修改不得超出原说明书和权利要求书记载的范围。这是专利审查中'不超范围'的核心原则。",
+    "relatedArticles": ["patent-law/article-33"],
+    "tags": ["修改超范围", "原说明书", "权利要求书"]
+  },
+  {
+    "id": "pl-c01-q010",
+    "subject": "patent-law",
+    "chapterId": "ch-04",
+    "chapterTitle": "专利申请的审查和批准",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 2,
+    "content": "发明专利申请人请求实质审查的期限是多少？",
+    "options": [
+      { "key": "A", "content": "自申请日起1年内" },
+      { "key": "B", "content": "自申请日起2年内" },
+      { "key": "C", "content": "自申请日起3年内" },
+      { "key": "D", "content": "无限制" }
+    ],
+    "correctAnswer": ["C"],
+    "explanation": "根据《专利法》第35条，发明专利自申请日起（有优先权的，自优先权日起）三年内，申请人可随时提出实质审查请求。无正当理由逾期不请求的，该申请即被视为撤回。",
+    "relatedArticles": ["patent-law/article-35"],
+    "tags": ["实质审查", "3年期限", "视为撤回"]
+  },
+  {
+    "id": "pl-c01-q011",
+    "subject": "patent-law",
+    "chapterId": "ch-04",
+    "chapterTitle": "专利申请的审查和批准",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 2,
+    "content": "发明专利权自何时起生效？",
+    "options": [
+      { "key": "A", "content": "授权决定作出之日" },
+      { "key": "B", "content": "公告之日" },
+      { "key": "C", "content": "专利证书颁发之日" },
+      { "key": "D", "content": "申请日" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "根据《专利法》第39条，发明专利权自公告之日起生效。同样，根据第40条，实用新型和外观设计专利权也自公告之日起生效。",
+    "relatedArticles": ["patent-law/article-39", "patent-law/article-40"],
+    "tags": ["专利权生效", "公告日", "申请日"]
+  },
+  {
+    "id": "pl-c01-q012",
+    "subject": "patent-law",
+    "chapterId": "ch-06",
+    "chapterTitle": "专利实施的特别许可",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 3,
+    "content": "2020年修正的专利法新增的开放许可制度，以下说法正确的是？",
+    "options": [
+      { "key": "A", "content": "专利权人可声明愿意许可任何人实施其专利" },
+      { "key": "B", "content": "开放许可期间可同时给予独占许可" },
+      { "key": "C", "content": "开放许可不需要明确许可费" },
+      { "key": "D", "content": "开放许可声明不可撤回" }
+    ],
+    "correctAnswer": ["A"],
+    "explanation": "根据2020年修正的《专利法》新增的开放许可制度（第50-52条）以及2025年版《审查指南》（局令第84号）进一步细化：专利权人可书面声明愿意许可任何单位或个人实施其专利，并明确许可费支付方式和标准；开放许可期间，专利权人不得就该专利给予独占或排他许可；开放许可声明公告后专利权人可在满足条件时撤回声明；实行开放许可的专利可享受年费减缴50%的优惠。",
+    "relatedArticles": ["patent-law/article-50"],
+    "tags": ["开放许可", "当然许可", "2020年修正"]
+  },
+  {
+    "id": "pl-c01-q013",
+    "subject": "patent-law",
+    "chapterId": "ch-07",
+    "chapterTitle": "专利权的保护",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 4,
+    "content": "对故意侵犯专利权情节严重的，可以在按照权利人损失或侵权人获利等方法确定数额的多少倍范围内确定赔偿数额？",
+    "options": [
+      { "key": "A", "content": "一倍以上三倍以下" },
+      { "key": "B", "content": "一倍以上五倍以下" },
+      { "key": "C", "content": "三倍以上五倍以下" },
+      { "key": "D", "content": "没有倍数限制" }
+    ],
+    "correctAnswer": ["B"],
+    "explanation": "根据2020年修正的《专利法》第71条，对故意侵犯专利权情节严重的，可以在按照上述方法确定数额的一倍以上五倍以下确定赔偿数额。同时，法定赔偿额上限提高到五百万元、下限提高到三万元。这是2020年修正的重大亮点之一。",
+    "relatedArticles": ["patent-law/article-71"],
+    "tags": ["惩罚性赔偿", "1-5倍", "法定赔偿", "2020年修正"]
+  },
+  {
+    "id": "pl-c01-q014",
+    "subject": "patent-law",
+    "chapterId": "ch-01",
+    "chapterTitle": "总则",
+    "type": "multiple-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 2,
+    "content": "根据专利法，发明创造包括哪些类型？",
+    "options": [
+      { "key": "A", "content": "发明" },
+      { "key": "B", "content": "实用新型" },
+      { "key": "C", "content": "外观设计" },
+      { "key": "D", "content": "商业秘密" }
+    ],
+    "correctAnswer": ["A", "B", "C"],
+    "explanation": "根据《专利法》第2条，发明创造是指发明、实用新型和外观设计三种类型。商业秘密由《反不正当竞争法》保护，不属于专利法规定的发明创造类型。",
+    "relatedArticles": ["patent-law/article-02"],
+    "tags": ["发明创造", "发明", "实用新型", "外观设计"]
+  },
+  {
+    "id": "pl-c01-q015",
+    "subject": "patent-law",
+    "chapterId": "ch-01",
+    "chapterTitle": "总则",
+    "type": "single-choice",
+    "year": 2024,
+    "source": "章节练习",
+    "difficulty": 3,
+    "content": "专利申请权或者专利权的转让自何时起生效？",
+    "options": [
+      { "key": "A", "content": "合同签订之日" },
+      { "key": "B", "content": "合同公证之日" },
+      { "key": "C", "content": "登记之日" },
+      { "key": "D", "content": "公告之日" }
+    ],
+    "correctAnswer": ["C"],
+    "explanation": "根据《专利法》第10条，转让专利申请权或者专利权的，当事人应当订立书面合同，并向国务院专利行政部门登记，转让自登记之日起生效。注意：是登记之日生效，而非公告之日。",
+    "relatedArticles": ["patent-law/article-10"],
+    "tags": ["专利权转让", "登记生效", "书面合同"]
+  }
+]
