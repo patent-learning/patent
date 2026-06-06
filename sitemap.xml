@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://patent-learning.github.io/patent</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://patent-learning.github.io/patent/index.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <!-- 你其它页面：exam.html / guide.html 之类的继续加 <url>...</url> -->
+</urlset>
